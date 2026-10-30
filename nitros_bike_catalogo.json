@@ -1,0 +1,1000 @@
+{
+  "shop_info": {
+    "shop_name": "Nitros Bike",
+    "address": "Av. Comendador Teles, 2 - Lote 02/Quadra 48 - Vilar dos Teles, São João de Meriti - RJ, 25561-162",
+    "currency": "BRL",
+    "rules": {
+      "vr_mode_format": "Total Mão de Obra: R$ {labor} | Total Geral: R$ {total}",
+      "always_highlight_labor": true
+    }
+  },
+  "total_items": 98,
+  "catalog": [
+    {
+      "sku": "BIKE-001",
+      "name": "Motorizada Simples",
+      "category": "Bikes Novas",
+      "type": "bundle",
+      "price_part": 1780.0,
+      "price_labor": 0.0,
+      "price_total": 1780.0,
+      "notes": "Sem desconto à vista.",
+      "mobile_restricted": true
+    },
+    {
+      "sku": "BIKE-002",
+      "name": "Motorizada Modelo Estrada",
+      "category": "Bikes Novas",
+      "type": "bundle",
+      "price_part": 1850.0,
+      "price_labor": 0.0,
+      "price_total": 1850.0,
+      "notes": "Sem desconto à vista.",
+      "mobile_restricted": true
+    },
+    {
+      "sku": "BIKE-003",
+      "name": "Motorizada Modelo Completo (Padrão Aero)",
+      "category": "Bikes Novas",
+      "type": "bundle",
+      "price_part": 2050.0,
+      "price_labor": 0.0,
+      "price_total": 2050.0,
+      "notes": "Acompanha amortecedor 2 andares, banco mobilete/XR e folha aero padrão.",
+      "mobile_restricted": true
+    },
+    {
+      "sku": "BIKE-004",
+      "name": "Motorizada Modelo Completo (Top de Linha)",
+      "category": "Bikes Novas",
+      "type": "bundle",
+      "price_part": 2705.0,
+      "price_labor": 0.0,
+      "price_total": 2705.0,
+      "notes": "Inclui Alarme, Retrovisor, Bagageiro com almofada, Pedaleira, Esticador com mola e Folhas ViperMaxx.",
+      "mobile_restricted": true
+    },
+    {
+      "sku": "ELE-001",
+      "name": "Bobina",
+      "category": "Elétrica",
+      "type": "part_labor",
+      "price_part": 60.0,
+      "price_labor": 30.0,
+      "price_total": 90.0,
+      "notes": ""
+    },
+    {
+      "sku": "ELE-002",
+      "name": "CDI",
+      "category": "Elétrica",
+      "type": "part_labor",
+      "price_part": 60.0,
+      "price_labor": 30.0,
+      "price_total": 90.0,
+      "notes": ""
+    },
+    {
+      "sku": "ELE-003",
+      "name": "Magneto",
+      "category": "Elétrica",
+      "type": "part_labor",
+      "price_part": 50.0,
+      "price_labor": 20.0,
+      "price_total": 70.0,
+      "notes": ""
+    },
+    {
+      "sku": "ELE-004",
+      "name": "Vela",
+      "category": "Elétrica",
+      "type": "part_labor",
+      "price_part": 20.0,
+      "price_labor": 5.0,
+      "price_total": 25.0,
+      "notes": ""
+    },
+    {
+      "sku": "ELE-005",
+      "name": "Cachimbo",
+      "category": "Elétrica",
+      "type": "part_labor",
+      "price_part": 15.0,
+      "price_labor": 5.0,
+      "price_total": 20.0,
+      "notes": ""
+    },
+    {
+      "sku": "ELE-006",
+      "name": "Ignição (completo)",
+      "category": "Elétrica",
+      "type": "part_labor",
+      "price_part": 50.0,
+      "price_labor": 5.0,
+      "price_total": 55.0,
+      "notes": ""
+    },
+    {
+      "sku": "ELE-007",
+      "name": "Mata-motor",
+      "category": "Elétrica",
+      "type": "part_labor",
+      "price_part": 30.0,
+      "price_labor": 20.0,
+      "price_total": 50.0,
+      "notes": ""
+    },
+    {
+      "sku": "ELE-008",
+      "name": "Kit seta (com instalação)",
+      "category": "Elétrica",
+      "type": "part_labor",
+      "price_part": 165.0,
+      "price_labor": 70.0,
+      "price_total": 235.0,
+      "notes": "Não é vendido por fora; vendido apenas direto com instalação."
+    },
+    {
+      "sku": "ELE-009",
+      "name": "Alarme",
+      "category": "Elétrica",
+      "type": "part_labor",
+      "price_part": 100.0,
+      "price_labor": 30.0,
+      "price_total": 130.0,
+      "notes": ""
+    },
+    {
+      "sku": "EMB-001",
+      "name": "Conjunto braço de embreagem completo",
+      "category": "Embreagem",
+      "type": "part_labor",
+      "price_part": 50.0,
+      "price_labor": 25.0,
+      "price_total": 75.0,
+      "notes": ""
+    },
+    {
+      "sku": "EMB-002",
+      "name": "Braço de embreagem (só o braço)",
+      "category": "Embreagem",
+      "type": "part_labor",
+      "price_part": 40.0,
+      "price_labor": 25.0,
+      "price_total": 65.0,
+      "notes": ""
+    },
+    {
+      "sku": "EMB-003",
+      "name": "Cabo de Embreagem (aço ou conduíte)",
+      "category": "Embreagem",
+      "type": "part_labor",
+      "price_part": 3.0,
+      "price_labor": 10.0,
+      "price_total": 13.0,
+      "notes": ""
+    },
+    {
+      "sku": "EMB-004",
+      "name": "Pino de embreagem",
+      "category": "Embreagem",
+      "type": "part_labor",
+      "price_part": 5.0,
+      "price_labor": 10.0,
+      "price_total": 15.0,
+      "notes": ""
+    },
+    {
+      "sku": "EMB-005",
+      "name": "Bilha",
+      "category": "Embreagem",
+      "type": "part_labor",
+      "price_part": 5.0,
+      "price_labor": 10.0,
+      "price_total": 15.0,
+      "notes": ""
+    },
+    {
+      "sku": "EMB-006",
+      "name": "Pads de embreagem",
+      "category": "Embreagem",
+      "type": "part_labor",
+      "price_part": 25.0,
+      "price_labor": 25.0,
+      "price_total": 50.0,
+      "notes": ""
+    },
+    {
+      "sku": "EMB-007",
+      "name": "Manete de Embreagem",
+      "category": "Embreagem",
+      "type": "part_labor",
+      "price_part": 45.0,
+      "price_labor": 10.0,
+      "price_total": 55.0,
+      "notes": ""
+    },
+    {
+      "sku": "EMB-008",
+      "name": "Engrenagem grande com pads",
+      "category": "Embreagem",
+      "type": "part_labor",
+      "price_part": 120.0,
+      "price_labor": 50.0,
+      "price_total": 170.0,
+      "notes": ""
+    },
+    {
+      "sku": "EMB-009",
+      "name": "Engrenagem grande sem pads",
+      "category": "Embreagem",
+      "type": "part_labor",
+      "price_part": 100.0,
+      "price_labor": 50.0,
+      "price_total": 150.0,
+      "notes": ""
+    },
+    {
+      "sku": "EMB-010",
+      "name": "Porca Flor",
+      "category": "Embreagem",
+      "type": "part_labor",
+      "price_part": 12.0,
+      "price_labor": 10.0,
+      "price_total": 22.0,
+      "notes": ""
+    },
+    {
+      "sku": "EMB-011",
+      "name": "Eixo de embreagem",
+      "category": "Embreagem",
+      "type": "part_labor",
+      "price_part": 70.0,
+      "price_labor": 50.0,
+      "price_total": 120.0,
+      "notes": ""
+    },
+    {
+      "sku": "MOT-001",
+      "name": "Kit Motor 80cc Importado",
+      "category": "Motor",
+      "type": "part_labor",
+      "price_part": 750.0,
+      "price_labor": 250.0,
+      "price_total": 1000.0,
+      "notes": "Reforçado completo. Pode ser vendido avulso (R$ 750) ou instalado (R$ 1.000).",
+      "mobile_restricted": true
+    },
+    {
+      "sku": "MOT-002",
+      "name": "Kit cilindro 100cc (BT)",
+      "category": "Motor",
+      "type": "part_labor",
+      "price_part": 300.0,
+      "price_labor": 60.0,
+      "price_total": 360.0,
+      "notes": ""
+    },
+    {
+      "sku": "MOT-003",
+      "name": "Kit cilindro 80cc",
+      "category": "Motor",
+      "type": "part_labor",
+      "price_part": 180.0,
+      "price_labor": 60.0,
+      "price_total": 240.0,
+      "notes": ""
+    },
+    {
+      "sku": "MOT-004",
+      "name": "Pistão 100cc (BT)",
+      "category": "Motor",
+      "type": "part_labor",
+      "price_part": 120.0,
+      "price_labor": 40.0,
+      "price_total": 160.0,
+      "notes": ""
+    },
+    {
+      "sku": "MOT-005",
+      "name": "Pistão 80cc",
+      "category": "Motor",
+      "type": "part_labor",
+      "price_part": 80.0,
+      "price_labor": 40.0,
+      "price_total": 120.0,
+      "notes": ""
+    },
+    {
+      "sku": "MOT-006",
+      "name": "Cilindro 100cc BT",
+      "category": "Motor",
+      "type": "part_labor",
+      "price_part": 200.0,
+      "price_labor": 50.0,
+      "price_total": 250.0,
+      "notes": ""
+    },
+    {
+      "sku": "MOT-007",
+      "name": "Cilindro 80cc",
+      "category": "Motor",
+      "type": "part_labor",
+      "price_part": 100.0,
+      "price_labor": 50.0,
+      "price_total": 150.0,
+      "notes": ""
+    },
+    {
+      "sku": "MOT-008",
+      "name": "Cabeçote",
+      "category": "Motor",
+      "type": "part_labor",
+      "price_part": 50.0,
+      "price_labor": 30.0,
+      "price_total": 80.0,
+      "notes": "Mão de obra com vedação inclusa."
+    },
+    {
+      "sku": "MOT-009",
+      "name": "Anéis (unidade)",
+      "category": "Motor",
+      "type": "part_labor",
+      "price_part": 10.0,
+      "price_labor": 25.0,
+      "price_total": 35.0,
+      "notes": ""
+    },
+    {
+      "sku": "MOT-010",
+      "name": "Gaiola do Pistão",
+      "category": "Motor",
+      "type": "part_labor",
+      "price_part": 10.0,
+      "price_labor": 25.0,
+      "price_total": 35.0,
+      "notes": ""
+    },
+    {
+      "sku": "MOT-011",
+      "name": "Pino do pistão",
+      "category": "Motor",
+      "type": "part_labor",
+      "price_part": 5.0,
+      "price_labor": 10.0,
+      "price_total": 15.0,
+      "notes": ""
+    },
+    {
+      "sku": "MOT-012",
+      "name": "Gaiola do Virabrequim",
+      "category": "Motor",
+      "type": "part_labor",
+      "price_part": 40.0,
+      "price_labor": 150.0,
+      "price_total": 190.0,
+      "notes": "Mão de obra com abertura de motor."
+    },
+    {
+      "sku": "MOT-013",
+      "name": "Pino da biela",
+      "category": "Motor",
+      "type": "part_labor",
+      "price_part": 40.0,
+      "price_labor": 150.0,
+      "price_total": 190.0,
+      "notes": "Mão de obra com abertura de motor."
+    },
+    {
+      "sku": "MOT-014",
+      "name": "Biela",
+      "category": "Motor",
+      "type": "part_labor",
+      "price_part": 30.0,
+      "price_labor": 150.0,
+      "price_total": 180.0,
+      "notes": "Mão de obra com abertura de motor."
+    },
+    {
+      "sku": "MOT-015",
+      "name": "Rolamentos Laterais Blindados (unidade)",
+      "category": "Motor",
+      "type": "part_labor",
+      "price_part": 15.0,
+      "price_labor": 150.0,
+      "price_total": 165.0,
+      "notes": "Mão de obra com abertura de motor."
+    },
+    {
+      "sku": "MOT-016",
+      "name": "Engrenagem Pequena",
+      "category": "Motor",
+      "type": "part_labor",
+      "price_part": 40.0,
+      "price_labor": 30.0,
+      "price_total": 70.0,
+      "notes": ""
+    },
+    {
+      "sku": "MOT-017",
+      "name": "Meia lua (Chaveta)",
+      "category": "Motor",
+      "type": "part_labor",
+      "price_part": 5.0,
+      "price_labor": 0.0,
+      "price_total": 5.0,
+      "notes": "Mão de obra cobrada de acordo com o lugar que for retirado a meia lua."
+    },
+    {
+      "sku": "JUN-001",
+      "name": "Retentor - Lado Bobina (unidade)",
+      "category": "Juntas e Vedações",
+      "type": "part_labor",
+      "price_part": 15.0,
+      "price_labor": 20.0,
+      "price_total": 35.0,
+      "notes": "Lado Bobina"
+    },
+    {
+      "sku": "JUN-002",
+      "name": "Retentor - Lado Direito (unidade)",
+      "category": "Juntas e Vedações",
+      "type": "part_labor",
+      "price_part": 15.0,
+      "price_labor": 25.0,
+      "price_total": 40.0,
+      "notes": "Lado Direito"
+    },
+    {
+      "sku": "JUN-003",
+      "name": "Junta do escapamento 80cc",
+      "category": "Juntas e Vedações",
+      "type": "part_labor",
+      "price_part": 10.0,
+      "price_labor": 15.0,
+      "price_total": 25.0,
+      "notes": ""
+    },
+    {
+      "sku": "JUN-004",
+      "name": "Junta do escapamento 100cc",
+      "category": "Juntas e Vedações",
+      "type": "part_labor",
+      "price_part": 15.0,
+      "price_labor": 15.0,
+      "price_total": 30.0,
+      "notes": ""
+    },
+    {
+      "sku": "JUN-005",
+      "name": "Junta de alumínio cabeçote",
+      "category": "Juntas e Vedações",
+      "type": "part_labor",
+      "price_part": 15.0,
+      "price_labor": 20.0,
+      "price_total": 35.0,
+      "notes": ""
+    },
+    {
+      "sku": "JUN-006",
+      "name": "Junta da Base do motor",
+      "category": "Juntas e Vedações",
+      "type": "part_labor",
+      "price_part": 10.0,
+      "price_labor": 20.0,
+      "price_total": 30.0,
+      "notes": ""
+    },
+    {
+      "sku": "CAR-001",
+      "name": "Carburador",
+      "category": "Carburação, Admissão e Exaustão",
+      "type": "part_labor",
+      "price_part": 100.0,
+      "price_labor": 25.0,
+      "price_total": 125.0,
+      "notes": "MO de instalação/regulagem padrão R$ 25,00."
+    },
+    {
+      "sku": "CAR-002",
+      "name": "Mangueirinha de combustível",
+      "category": "Carburação, Admissão e Exaustão",
+      "type": "part_labor",
+      "price_part": 5.0,
+      "price_labor": 5.0,
+      "price_total": 10.0,
+      "notes": ""
+    },
+    {
+      "sku": "CAR-003",
+      "name": "Torneira de combustível",
+      "category": "Carburação, Admissão e Exaustão",
+      "type": "part_labor",
+      "price_part": 25.0,
+      "price_labor": 20.0,
+      "price_total": 45.0,
+      "notes": ""
+    },
+    {
+      "sku": "CAR-004",
+      "name": "Tanque 1,8 litros",
+      "category": "Carburação, Admissão e Exaustão",
+      "type": "part_labor",
+      "price_part": 110.0,
+      "price_labor": 20.0,
+      "price_total": 130.0,
+      "notes": ""
+    },
+    {
+      "sku": "CAR-005",
+      "name": "Tanque 2,5 litros",
+      "category": "Carburação, Admissão e Exaustão",
+      "type": "part_labor",
+      "price_part": 190.0,
+      "price_labor": 20.0,
+      "price_total": 210.0,
+      "notes": ""
+    },
+    {
+      "sku": "CAR-006",
+      "name": "Escapamento 80cc",
+      "category": "Carburação, Admissão e Exaustão",
+      "type": "part_labor",
+      "price_part": 100.0,
+      "price_labor": 20.0,
+      "price_total": 120.0,
+      "notes": ""
+    },
+    {
+      "sku": "CAR-007",
+      "name": "Escapamento 100cc",
+      "category": "Carburação, Admissão e Exaustão",
+      "type": "part_labor",
+      "price_part": 135.0,
+      "price_labor": 20.0,
+      "price_total": 155.0,
+      "notes": ""
+    },
+    {
+      "sku": "CAR-008",
+      "name": "Coletor",
+      "category": "Carburação, Admissão e Exaustão",
+      "type": "part_labor",
+      "price_part": 25.0,
+      "price_labor": 30.0,
+      "price_total": 55.0,
+      "notes": ""
+    },
+    {
+      "sku": "CAR-009",
+      "name": "Parafuso do escapamento (unidade)",
+      "category": "Carburação, Admissão e Exaustão",
+      "type": "part_labor",
+      "price_part": 1.5,
+      "price_labor": 5.0,
+      "price_total": 6.5,
+      "notes": ""
+    },
+    {
+      "sku": "REL-001",
+      "name": "Coroa 52 dentes",
+      "category": "Relação",
+      "type": "part_labor",
+      "price_part": 60.0,
+      "price_labor": 35.0,
+      "price_total": 95.0,
+      "notes": ""
+    },
+    {
+      "sku": "REL-002",
+      "name": "Coroa 44 dentes",
+      "category": "Relação",
+      "type": "part_labor",
+      "price_part": 50.0,
+      "price_labor": 35.0,
+      "price_total": 85.0,
+      "notes": ""
+    },
+    {
+      "sku": "REL-003",
+      "name": "Pinhão de 10 dentes",
+      "category": "Relação",
+      "type": "part_labor",
+      "price_part": 40.0,
+      "price_labor": 30.0,
+      "price_total": 70.0,
+      "notes": ""
+    },
+    {
+      "sku": "REL-004",
+      "name": "Corrente 415h",
+      "category": "Relação",
+      "type": "part_labor",
+      "price_part": 60.0,
+      "price_labor": 30.0,
+      "price_total": 90.0,
+      "notes": ""
+    },
+    {
+      "sku": "REL-005",
+      "name": "Elo de corrente 415 ou 420",
+      "category": "Relação",
+      "type": "part_labor",
+      "price_part": 15.0,
+      "price_labor": 10.0,
+      "price_total": 25.0,
+      "notes": ""
+    },
+    {
+      "sku": "REL-006",
+      "name": "Esticador de corrente (com alinhamento)",
+      "category": "Relação",
+      "type": "part_labor",
+      "price_part": 45.0,
+      "price_labor": 35.0,
+      "price_total": 80.0,
+      "notes": "Com alinhamento (MO R$ 35,00)"
+    },
+    {
+      "sku": "REL-007",
+      "name": "Esticador de corrente (sem alinhamento)",
+      "category": "Relação",
+      "type": "part_labor",
+      "price_part": 45.0,
+      "price_labor": 20.0,
+      "price_total": 65.0,
+      "notes": "Sem alinhamento (MO R$ 20,00)"
+    },
+    {
+      "sku": "REL-008",
+      "name": "Esticador de corrente com mola",
+      "category": "Relação",
+      "type": "part_labor",
+      "price_part": 70.0,
+      "price_labor": 30.0,
+      "price_total": 100.0,
+      "notes": "Total instalado R$ 100,00 (Peça R$ 70 / MO R$ 30)"
+    },
+    {
+      "sku": "REL-009",
+      "name": "Roldana nova do esticador",
+      "category": "Relação",
+      "type": "part_labor",
+      "price_part": 25.0,
+      "price_labor": 10.0,
+      "price_total": 35.0,
+      "notes": ""
+    },
+    {
+      "sku": "REL-010",
+      "name": "Parafuso da coroa traseira (unidade)",
+      "category": "Relação",
+      "type": "part_labor",
+      "price_part": 2.0,
+      "price_labor": 5.0,
+      "price_total": 7.0,
+      "notes": ""
+    },
+    {
+      "sku": "ROD-001",
+      "name": "Folha aero frente",
+      "category": "Rodas, Pneus e Freios",
+      "type": "part_labor",
+      "price_part": 95.0,
+      "price_labor": 35.0,
+      "price_total": 130.0,
+      "notes": ""
+    },
+    {
+      "sku": "ROD-002",
+      "name": "Folha aero traseiro com pinhão",
+      "category": "Rodas, Pneus e Freios",
+      "type": "part_labor",
+      "price_part": 125.0,
+      "price_labor": 35.0,
+      "price_total": 160.0,
+      "notes": "Aro traseiro Aero instalado: R$ 160,00"
+    },
+    {
+      "sku": "ROD-003",
+      "name": "Folha aero ViperMaxx frente",
+      "category": "Rodas, Pneus e Freios",
+      "type": "part_labor",
+      "price_part": 125.0,
+      "price_labor": 35.0,
+      "price_total": 160.0,
+      "notes": ""
+    },
+    {
+      "sku": "ROD-004",
+      "name": "Folha aero ViperMaxx traseiro",
+      "category": "Rodas, Pneus e Freios",
+      "type": "part_labor",
+      "price_part": 155.0,
+      "price_labor": 35.0,
+      "price_total": 190.0,
+      "notes": "Aro traseiro Vmaxx instalado: R$ 190,00"
+    },
+    {
+      "sku": "ROD-005",
+      "name": "Par de Pneus Kenda Flame",
+      "category": "Rodas, Pneus e Freios",
+      "type": "part_labor",
+      "price_part": 200.0,
+      "price_labor": 0.0,
+      "price_total": 200.0,
+      "notes": "Valor referente ao par"
+    },
+    {
+      "sku": "ROD-006",
+      "name": "Câmara de ar",
+      "category": "Rodas, Pneus e Freios",
+      "type": "part_labor",
+      "price_part": 15.0,
+      "price_labor": 10.0,
+      "price_total": 25.0,
+      "notes": ""
+    },
+    {
+      "sku": "ROD-007",
+      "name": "Borracha de freio SCS",
+      "category": "Rodas, Pneus e Freios",
+      "type": "part_labor",
+      "price_part": 20.0,
+      "price_labor": 5.0,
+      "price_total": 25.0,
+      "notes": ""
+    },
+    {
+      "sku": "ROD-008",
+      "name": "Freio V-Brake (par)",
+      "category": "Rodas, Pneus e Freios",
+      "type": "part_labor",
+      "price_part": 35.0,
+      "price_labor": 20.0,
+      "price_total": 55.0,
+      "notes": ""
+    },
+    {
+      "sku": "ROD-009",
+      "name": "Manete de freio (par)",
+      "category": "Rodas, Pneus e Freios",
+      "type": "part_labor",
+      "price_part": 25.0,
+      "price_labor": 20.0,
+      "price_total": 45.0,
+      "notes": ""
+    },
+    {
+      "sku": "DIV-001",
+      "name": "Quadro reforçado",
+      "category": "Diversos e Acessórios",
+      "type": "part_labor",
+      "price_part": 200.0,
+      "price_labor": 250.0,
+      "price_total": 450.0,
+      "notes": ""
+    },
+    {
+      "sku": "DIV-002",
+      "name": "Amortecedor de 1 andar",
+      "category": "Diversos e Acessórios",
+      "type": "part_labor",
+      "price_part": 120.0,
+      "price_labor": 20.0,
+      "price_total": 140.0,
+      "notes": ""
+    },
+    {
+      "sku": "DIV-003",
+      "name": "Amortecedor de 2 andares",
+      "category": "Diversos e Acessórios",
+      "type": "part_labor",
+      "price_part": 200.0,
+      "price_labor": 30.0,
+      "price_total": 230.0,
+      "notes": ""
+    },
+    {
+      "sku": "DIV-004",
+      "name": "Banco XR (Mobilete)",
+      "category": "Diversos e Acessórios",
+      "type": "part_labor",
+      "price_part": 120.0,
+      "price_labor": 30.0,
+      "price_total": 150.0,
+      "notes": ""
+    },
+    {
+      "sku": "DIV-005",
+      "name": "Banco com mola",
+      "category": "Diversos e Acessórios",
+      "type": "part_labor",
+      "price_part": 50.0,
+      "price_labor": 0.0,
+      "price_total": 50.0,
+      "notes": ""
+    },
+    {
+      "sku": "DIV-006",
+      "name": "Bagageiro",
+      "category": "Diversos e Acessórios",
+      "type": "part_labor",
+      "price_part": 40.0,
+      "price_labor": 20.0,
+      "price_total": 60.0,
+      "notes": ""
+    },
+    {
+      "sku": "DIV-007",
+      "name": "Almofada do bagageiro",
+      "category": "Diversos e Acessórios",
+      "type": "part_labor",
+      "price_part": 35.0,
+      "price_labor": 10.0,
+      "price_total": 45.0,
+      "notes": ""
+    },
+    {
+      "sku": "DIV-008",
+      "name": "Bagageiro com almofada (Conjunto)",
+      "category": "Diversos e Acessórios",
+      "type": "part_labor",
+      "price_part": 75.0,
+      "price_labor": 30.0,
+      "price_total": 105.0,
+      "notes": "Peça R$ 75,00 (Bagageiro R$ 40 + Almofada R$ 35)"
+    },
+    {
+      "sku": "DIV-009",
+      "name": "Retrovisor completo",
+      "category": "Diversos e Acessórios",
+      "type": "part_labor",
+      "price_part": 50.0,
+      "price_labor": 25.0,
+      "price_total": 75.0,
+      "notes": "Total instalado R$ 75,00 (Peça R$ 50 / MO R$ 25)"
+    },
+    {
+      "sku": "DIV-010",
+      "name": "Descanso",
+      "category": "Diversos e Acessórios",
+      "type": "part_labor",
+      "price_part": 50.0,
+      "price_labor": 10.0,
+      "price_total": 60.0,
+      "notes": ""
+    },
+    {
+      "sku": "DIV-011",
+      "name": "Tampas laterais",
+      "category": "Diversos e Acessórios",
+      "type": "part_labor",
+      "price_part": 25.0,
+      "price_labor": 10.0,
+      "price_total": 35.0,
+      "notes": ""
+    },
+    {
+      "sku": "DIV-012",
+      "name": "Pedaleira",
+      "category": "Diversos e Acessórios",
+      "type": "part_labor",
+      "price_part": 25.0,
+      "price_labor": 0.0,
+      "price_total": 25.0,
+      "notes": "Sem cobrança de mão de obra"
+    },
+    {
+      "sku": "SRV-001",
+      "name": "Instalação de motor (Mão de Obra avulsa)",
+      "category": "Serviços Avulsos",
+      "type": "labor_only",
+      "price_part": 0.0,
+      "price_labor": 250.0,
+      "price_total": 250.0,
+      "notes": "Para clientes que já adquiriram o motor 2 tempos por fora."
+    },
+    {
+      "sku": "SRV-002",
+      "name": "Troca de quadro (Mão de Obra avulsa)",
+      "category": "Serviços Avulsos",
+      "type": "labor_only",
+      "price_part": 0.0,
+      "price_labor": 250.0,
+      "price_total": 250.0,
+      "notes": ""
+    },
+    {
+      "sku": "SRV-003",
+      "name": "Manutenção Preventiva",
+      "category": "Serviços Avulsos",
+      "type": "labor_only",
+      "price_part": 0.0,
+      "price_labor": 150.0,
+      "price_total": 150.0,
+      "notes": "Revisão, limpeza e alinhamento geral."
+    },
+    {
+      "sku": "SRV-004",
+      "name": "Abertura de motor (Mão de Obra avulsa)",
+      "category": "Serviços Avulsos",
+      "type": "labor_only",
+      "price_part": 0.0,
+      "price_labor": 150.0,
+      "price_total": 150.0,
+      "notes": ""
+    },
+    {
+      "sku": "SRV-005",
+      "name": "Regulagem do carburador (Sem limpeza)",
+      "category": "Serviços Avulsos",
+      "type": "labor_only",
+      "price_part": 0.0,
+      "price_labor": 25.0,
+      "price_total": 25.0,
+      "notes": ""
+    },
+    {
+      "sku": "SRV-006",
+      "name": "Regulagem do carburador (Com limpeza)",
+      "category": "Serviços Avulsos",
+      "type": "labor_only",
+      "price_part": 0.0,
+      "price_labor": 35.0,
+      "price_total": 35.0,
+      "notes": ""
+    },
+    {
+      "sku": "SRV-007",
+      "name": "Tirar elos de corrente",
+      "category": "Serviços Avulsos",
+      "type": "labor_only",
+      "price_part": 0.0,
+      "price_labor": 35.0,
+      "price_total": 35.0,
+      "notes": ""
+    },
+    {
+      "sku": "SRV-008",
+      "name": "Regulagem do kit fixa da coroa",
+      "category": "Serviços Avulsos",
+      "type": "labor_only",
+      "price_part": 0.0,
+      "price_labor": 15.0,
+      "price_total": 15.0,
+      "notes": ""
+    },
+    {
+      "sku": "SRV-009",
+      "name": "Troca da roldana do esticador (Mão de Obra avulsa)",
+      "category": "Serviços Avulsos",
+      "type": "labor_only",
+      "price_part": 0.0,
+      "price_labor": 10.0,
+      "price_total": 10.0,
+      "notes": ""
+    },
+    {
+      "sku": "SRV-010",
+      "name": "Troca de 2 pastilhas de freio (Mão de Obra avulsa)",
+      "category": "Serviços Avulsos",
+      "type": "labor_only",
+      "price_part": 0.0,
+      "price_labor": 7.0,
+      "price_total": 7.0,
+      "notes": ""
+    },
+    {
+      "sku": "SRV-011",
+      "name": "Montagem de bike nova",
+      "category": "Serviços Avulsos",
+      "type": "labor_only",
+      "price_part": 0.0,
+      "price_labor": 0.0,
+      "price_total": 0.0,
+      "notes": "",
+      "is_new_bike_assembly": true
+    }
+  ]
+}
